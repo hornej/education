@@ -29,7 +29,7 @@ Part 2: Product development reference
 
 TRANSFERABILITY & DESIRABILITY
 
-# Chapter 2: Product Development
+# Chapter 2: Product Development Fundamentals
 
 1. Opportunity Development
 2. Concept Development
