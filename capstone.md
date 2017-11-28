@@ -52,7 +52,7 @@ Validate, don’t assume. Get feedback early!
 Well-defined opportunity:
 
 1. Market requirements  
-  + Key factors that determine desirability   
+    + Key factors that determine desirability   
   + 5-20 requirements  
   + Market requirements should be approved by the market (the development team is not the market)
 2. Performance measures  
