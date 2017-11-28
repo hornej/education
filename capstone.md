@@ -3,7 +3,7 @@ Mattson & Sorensen
 
 # Table of Contents
 
-- [Chapter 1: Getting Started](#chapter-1:-getting-started)
+- [Chapter 1: Getting Started](#chapter-1-getting-started)
 - [Chapter 2: Product Development Fundamentals](#chapter-2:-product-development-fundamentals)
   + [SD Card Setup](#sd-card-setup)
 - [Chapter 3: Design Skills](#chapter-3:-design-skills)
