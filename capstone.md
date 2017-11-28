@@ -52,34 +52,34 @@ Validate, don’t assume. Get feedback early!
 Well-defined opportunity:
 
 1. Market requirements  
-    + Key factors that determine desirability   
-  + 5-20 requirements  
-  + Market requirements should be approved by the market (the development team is not the market)
+    - Key factors that determine desirability   
+    - 5-20 requirements  
+    - Market requirements should be approved by the market (the development team is not the market)
 2. Performance measures  
-  + Best to have quantitative unit measurements
+    - Best to have quantitative unit measurements
 3. Requirement-measure relationships  
-  + The relationships should not be strictly one-to-one
+    - The relationships should not be strictly one-to-one
 4. Ideal values  
-  + The value the market most prefers
+    - The value the market most prefers
 
 Very rough models, prototypes, and sketches can be helpful to communicate with customers and get feedback.  
 
 How to gather and process essential information
 1. Representing the market  
-  - Find the correct market representatives
+    - Find the correct market representatives
 2. Understanding the market  
-  - Surveys
-  - Focus groups
-  - Interviews
-  - Observational studies
-  - Product benchmarking
-    - Technical
-    - Market
-  - Capturing customer statements
-  - Developing a requirements hierarchy
-  - Developing performance measures
-  - Determining requirement-measure relationships
-  - Determining ideal values
+    - Surveys
+    - Focus groups
+    - Interviews
+    - Observational studies
+    - Product benchmarking
+      - Technical
+      - Market
+    - Capturing customer statements
+    - Developing a requirements hierarchy
+    - Developing performance measures
+    - Determining requirement-measure relationships
+    - Determining ideal values
 
 This process requires interaction with the client and the market.
 
