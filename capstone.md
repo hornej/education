@@ -4,21 +4,21 @@ Mattson & Sorensen
 # Table of Contents
 
 - [Chapter 1: Getting Started](#chapter-1-getting-started)
-- [Chapter 2: Product Development Fundamentals](#chapter-2:-product-development-fundamentals)
+- [Chapter 2: Product Development Fundamentals](#chapter-2-product-development-fundamentals)
   + [SD Card Setup](#sd-card-setup)
-- [Chapter 3: Design Skills](#chapter-3:-design-skills)
-- [Chapter 4: Opportunity Development](#chapter-4:-opportunity-development)
-- [Chapter 5: Concept Development](#chapter-5:-concept-development)
-- [Chapter 6: Subsystem Engineering](#chapter-6:-subsystem-engineering)
-- [Chapter 7: Product Refinement](#chapter-7:-product-refinement)
+- [Chapter 3: Design Skills](#chapter-3-design-skills)
+- [Chapter 4: Opportunity Development](#chapter-4-opportunity-development)
+- [Chapter 5: Concept Development](#chapter-5-concept-development)
+- [Chapter 6: Subsystem Engineering](#chapter-6-subsystem-engineering)
+- [Chapter 7: Product Refinement](#chapter-7-product-refinement)
 - [Basic Design Process](#basic-design-process)
+- [Exercises](#exercises)
 
 <!-- toc -->
 
 # Chapter 1: Getting Started
 
 **4 principles:**
-
 1. The job of the product development team is to create a design that is desirable and transferable  
 2. The design must evolve, gradually becoming better, more mature, and until it contains all the necessary information for the production system to manufacture the product and test its quality  
 3. The product development team causes design evolution through design activities  
@@ -39,6 +39,8 @@ TRANSFERABILITY & DESIRABILITY
 6. Post-Release Refinement
 
 # Chapter 3: Design Skills
+
+Stuff about the chapter here
 
 # Chapter 4: Opportunity Development
 
@@ -84,9 +86,53 @@ This process requires interaction with the client and the market.
 
 # Chapter 5: Concept Development
 
+**REQUIREMENTS**
+- Subsystem requirements
+  - Rather than using market requirements, the subsystem opportunity definition uses selected system performance measures as the subsystem requirements
+- Target values for the system and subsystems
+  - Basic requirements
+    - Have a minimal effect on the market perception
+    - Do not spend significant effort to optimize
+  - Constraints
+    - Target values that MUST be met
+  - Key performance measures
+    - Target values that have a strong effect on the market's perception
+  - Stretch goals
+    - Would be amazing to reach but somewhat unlikely
+
+**TESTS**
+- Evaluate alternative concepts.  
+- Provide evidence that the product is desirable.  
+
+**MODELS**
+- Rough technical models of the concept.  
+- Evaluation of competitive products.
+- Relationships between subsystems.
+
+**PROTOTYPES**
+- Make prototypes that show the definition of the product rather than the purpose of the product.
+
+**DESIGN**
+- Definition of the concept
+  - Describes the means for achieving major market requirements
+  - Takes the form of sketches and graphical representation
+  - Must be clear enough to be understood by a 3rd party
+- Decomposition of the concept
+  - List of the subsystems
+  - Visual representation of the relationships between subsystems
+- Subsystem interface definitions
+  - Interface matrix
+  - Interface Control Drawing
+- Bill of materials
+  - List of major parts
+
 # Chapter 6: Subsystem Engineering
 
+Stuff about the chapter
+
 # Chapter 7: Product Refinement
+
+Stuff about the chapter
 
 ## Basic Design Process
 
