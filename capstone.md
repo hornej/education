@@ -12,6 +12,7 @@ Mattson & Sorensen
 - [Chapter 7: Product Refinement](#chapter-7-product-refinement)
 - [Basic Design Process](#basic-design-process)
 - [Exercises](#exercises)
+- [Design Skill Portfolio](#design-skill-portfolio)
 
 <!-- toc -->
 
@@ -39,7 +40,57 @@ TRANSFERABILITY & DESIRABILITY
 
 # Chapter 3: Design Skills
 
-Stuff about the chapter here
+10 Crucial Design Skills:
+- Planning
+  - Critical Path Analysis
+  - Goal Pyramid
+  - Nucor's Circles
+  - Objective Tree
+  - Plan-Do-Check-Act (Shewhart Cycle)
+  - Planning Canvas
+  - Project Objective Statement
+  - Value Engineering
+- Discovering
+  - Catalog Search
+  - Codes and Standards
+  - Delphi Method
+  - Internet Research
+  - Focus Groups
+  - Interviews
+  - Observational Studies
+  - Surveys
+- Creating
+  - Bio-Inspired Design
+  - Brainstorming
+  - Concept Classification Tree
+  - Decomposition
+  - Method 635
+  - Mind Maps
+  - Recombination Table
+  - SCAMPER
+  - Storyboards
+  - Theory of Inventive Problem Solving (TRIZ)
+- Representing
+  - Sketching
+  - Drawings
+  - Drawing Checking
+  - CAD Modeling
+- Modeling
+  - Design of Experiments
+  - Dimensional Analysis
+  - Finite Element Modeling
+  - Sensitivity Analysis
+  - Uncertainty Analysis
+- Prototyping
+  - Prototyping
+  - Rapid Prototyping
+- Experimenting
+  - Experimenting
+- Evaluating
+- Deciding
+- Conveying
+
+
 
 # Chapter 4: Opportunity Development
 
@@ -222,3 +273,153 @@ Stuff about the chapter
 
 - Measured system performance measures
 - Market response to the product
+
+# Design Skill Portfolio
+
+## Requirements
+
+- 2 techniques related to design skills.
+- Demonstrate the techniques in visual form
+- Max 3 pages per skill
+
+## Evaluation
+
+- Demonstrates skill in technique that would make you an extremely desirable team member. A company in need of that technique would be excited to hire you.
+
+# Product Development Reference
+
+Basic Design Process
+
+Benchmarking
+
+Bill of Materials
+
+Bio-Inspired Design
+
+Brainstorming
+
+CAD Modeling
+
+Catalog Search
+
+Codes and Standards
+
+Concept Classification Tree
+
+Controlled Convergence
+
+Cost Estimation
+
+Cost Targets
+
+Critical Path Analysis
+
+Decomposition
+
+Delphi Method
+
+Design for Assembly
+
+Design for Manufacturing
+
+Design for Experiments
+
+Design Review
+
+Design Structure Matrix
+
+Dimensional Analysis
+
+Drawing Checking
+
+Drawings
+
+Engineering Change Order (ECO)
+
+Ergonomics
+
+Experimentation
+
+Failure Modes and Effects Analysis
+
+Fault Tree Analysis
+
+Financial Analysis
+
+Finite Element Modeling
+
+Focus Groups
+
+Goal Pyramid
+
+Internet Research
+
+Interviews
+
+Method 635
+
+Mind Maps
+
+Multivoting
+
+Nucor's Circles
+
+Objective Tree
+
+Observational Studies
+
+One Pager
+
+Optimization
+
+Patent Search
+
+Performance Measures
+
+Plan-Do-Check-Act (Shewhart Cycle)
+
+Planning Canvas
+
+Product-Focused Requirement Statements
+
+Project Objective Statement
+
+Prototyping
+
+Quality function deployment
+
+Rapid Prototyping
+
+Recombination Table
+
+Requirements Hierarchy
+
+Requirements Matrix
+
+Revision Control
+
+Robust Design
+
+SCAMPER
+
+Scoring Matrix
+
+Screening Matrix
+
+Sensitivity Analysis
+
+Six Sigma
+
+Sketching
+
+Storyboards
+
+Surveys
+
+Theory of Inventive Problem Solving (TRIZ)
+
+Troubleshooting
+
+Uncertainty Analysis
+
+Value Engineering
