@@ -289,7 +289,7 @@ Stuff about the chapter
 
 # Product Development Reference
 
-### Basic Design Process
+## Basic Design Process
 
 1. Understand the need (Engage/Observe)
 2. Explore concepts (Diverge/Converge)
