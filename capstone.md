@@ -470,7 +470,6 @@ By the end of the method (typically 30 to 60 minutes later), there will be 6 lis
 - Positive, not negative, phrasing
 - As specific as the user statement
 - A requirement of the product, not the environment of the user
-- 
 
 ## Project Objective Statement
 
