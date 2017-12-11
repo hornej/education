@@ -13,6 +13,7 @@ Mattson & Sorensen
 - [Basic Design Process](#basic-design-process)
 - [Exercises](#exercises)
 - [Design Skill Portfolio](#design-skill-portfolio)
+- [Product Development Reference](#product-development-reference)
 
 <!-- toc -->
 
@@ -288,138 +289,222 @@ Stuff about the chapter
 
 # Product Development Reference
 
-Basic Design Process
+### Basic Design Process
 
-Benchmarking
+1. Understand the need (Engage/Observe)
+2. Explore concepts (Diverge/Converge)
+3. Define the design (Model/Experiment)
+4. Test the design (Prototype/Evaluate)
+5. Refine the design
 
-Bill of Materials
+### Benchmarking
+> Benchmarking is a process of developing a thorough understanding of competitive products. These products are evaluated to determine how well the market likes the product, key strengths and weaknesses, the performance of the product on the performance measures, the concepts used in the product, and the estimated manufacturing cost of the product.
 
-Bio-Inspired Design
+- Market Benchmarking
+- Technical Benchmarking
+- Design Benchmarking
 
-Brainstorming
+### Bill of Materials
 
-CAD Modeling
+### Bio-Inspired Design
+> Bio-inspired design (sometimes called biomimicry or nature inspired design) is a solution exploration strategy that investigates nature’s solution to problems. The purpose of the strategy is to identify new solution principles from nature to inspire the development of analogous technical systems.
 
-Catalog Search
+### Brainstorming
 
-Codes and Standards
+Osborn's Rules for Brainstorming
+1. Focus on Quantity
+2. Withhold Criticism
+3. Welcome Unusual Ideas
+4. Combine and Improve Ideas
 
-Concept Classification Tree
+### CAD Modeling
 
-Controlled Convergence
+### Catalog Search
 
-Cost Estimation
+### Codes and Standards
+> Many products will be governed by relevant codes and standards. In such cases, the standards describe performance measures that must be met in order to sell the product. The standards also often prescribe test methods for measuring the required performance. Using codes and standards helps ensure your product will be successful, and allows you to build on the expertise of the standard writers, rather than having to create all of that knowledge yourself.
 
-Cost Targets
+### Concept Classification Tree
+> A concept classi cation tree graphically presents the different branches explored when generating alternative solutions or concepts.
 
-Critical Path Analysis
+### Controlled Convergence
 
-Decomposition
+### Cost Estimation
 
-Delphi Method
+### Cost Targets
 
-Design for Assembly
+1. Calculate total BOM cost
+2. BOM cost * 2 = Manufacturer's selling price to you
+3. Manufacturer's selling price to you * 2 = Selling price to retailer
+4. Selling price to retailer * 2 = What the consumer will pay
 
-Design for Manufacturing
+### Critical Path Analysis
+> In any design activity map, there is a critical path that limits the minimum time required to complete the map. An important characteristic of the critical path is that if any activity on it is delayed, it delays the completion of the entire map. Activities not on the critical path have a window within which they can be completed; any delay within that window does not delay the completion of the entire map. To that end, understanding, tracking, and managing the critical path is essential to completing the map on time.
 
-Design for Experiments
+### Decomposition
 
-Design Review
+Solve difficult problems one at a time
 
-Design Structure Matrix
+### Delphi Method
+> The Delphi method or Delphi technique is a method for obtaining information relevant to the design from experts in related fields.
 
-Dimensional Analysis
+- Informal Delphi Method
+- Formal Delphi Method
 
-Drawing Checking
+### Design for Assembly
 
-Drawings
+- Minimize the total number of parts
+- Minimize assembly surfaces
+- Avoid separate fasteners
+- Minimize assembly instructions
+- Maximize lead-in assembly
+- Minimize handling in assembly
 
-Engineering Change Order (ECO)
+### Design for Manufacturing
 
-Ergonomics
+### Design for Experiments
 
-Experimentation
+### Design Review
 
-Failure Modes and Effects Analysis
+### Design Structure Matrix
 
-Fault Tree Analysis
+### Dimensional Analysis
+> Dimensional analysis is a method of determining a minimal set of parameters that will affect the performance of a design. It provides scaling factors that help compare different designs using the same principles. A result of dimensional analysis is a set of dimensionless groups that can be correlated with product performance across a wide range of conditions.
 
-Financial Analysis
+### Drawing Checking
 
-Finite Element Modeling
+### Drawings
+> Engineering or technical drawings are used to fully and clearly de ne the design of an engineered product. Drawings communicate all needed information from the designer of the product to the production system to ensure that the product will match the design intent in all important ways.
 
-Focus Groups
+### Engineering Change Order (ECO)
 
-Goal Pyramid
+### Ergonomics
+> The interface between humans and technical products is called product ergonomics. When establishing product ergonomics, designers consider the characteristics, abilities, and needs of humans (Pahl et al., 2007) as well as the needs of the product.
 
-Internet Research
+- Biomechanical Issues
+- Physiological Issues
+- Pyschological Issues
 
-Interviews
+### Experimentation
 
-Method 635
+1. Plan experiments before you do them
+2. Test at multiple conditions
+3. Complete all non-destructive tests before potentially destructive tests
+4. Record all data and setup information necessary to perform the experiment
+5. Calculate preliminary results during experimentation
+6. Analyze the data statistically
+7. Prepare a written summary with at least one summary data plot
 
-Mind Maps
+### Failure Modes and Effects Analysis
 
-Multivoting
+### Fault Tree Analysis
 
-Nucor's Circles
+### Financial Analysis
+> Financial Analysis is a set of methods used to predict and track the financial implications of decisions made during product development. It is used to support decisions about what is to be developed. It is also used to support decisions about specific activities to be undertaken during product development.
 
-Objective Tree
+- Payback analysis
+- Net present value
 
-Observational Studies
+### Finite Element Modeling
 
-One Pager
+### Focus Groups
+> A focus group is a group of 6-10 individuals who are asked a series of open-ended questions by a moderator in order to understand how they feel about a product or service. Properly done, focus groups can be a rich source of qualitative understanding about the desires of the market.
 
-Optimization
+### Goal Pyramid
+- Constraints
+- Key Requirements
+- Stretch Goals
+- Basic Requirements
 
-Patent Search
+### Internet Research
 
-Performance Measures
+### Interviews
+> Interviews allow product development team members to have direct contact with people pertinent to the development project. Direct contact helps the team member get a firsthand account of needs, product use, opinions, complaints, difficulties, and so on. Interviews can be done with one, or with a few participants. One-on-one interviews are valuable because a participant’s responses are uninfluenced by other participants. Small group interviews can be good because participants often have insightful dialogue with other participants.
+A primary goal of interviewing should be to elicit an honest response from participants1. Don’t be mistaken; this is very hard to do.
 
-Plan-Do-Check-Act (Shewhart Cycle)
+Example questions:
+- When do you use this type of product?
+- Why do you use this type of product?
+- Walk us through a typical session using the product.
+- What features do you like in this product?
+- What features do you dislike in this product?
+- What do you consider when buying a product like this?
+- If there were no limitations, what would you do to improve this product?
 
-Planning Canvas
+### Method 635
+> To carry out the activity, 6 people familiarize themselves with the problem at hand. Each creates and writes down 3 candidate solutions. The list of candidate solutions is then passed to the next participant, who adds 3 more candidates by building on the ideas from the previous participant. The built-upon-ideas are then passed to the next participant and eventually through all participants.
+Hence the name 635; 6 participants, 3 ideas each, further developed by 5 other people.
+By the end of the method (typically 30 to 60 minutes later), there will be 6 lists of candidate solutions, each of which contains 18 systematically developed candidates, for a total of 108 solution candidates.
 
-Product-Focused Requirement Statements
+### Mind Maps
 
-Project Objective Statement
+### Multivoting
 
-Prototyping
+### Nucor's Circles
+- Passion
+- Expertise
+- Market
 
-Quality function deployment
+### Objective Tree
 
-Rapid Prototyping
+### Observational Studies
+- Rapid Ethnography
+- Fly on the Wall
+- Behavioral Archeology
+- A Day in the Life
 
-Recombination Table
+### One Pager
 
-Requirements Hierarchy
+### Optimization
 
-Requirements Matrix
+### Patent Searches
 
-Revision Control
+### Performance Measures
 
-Robust Design
+### Plan-Do-Check-Act (Shewhart Cycle)
 
-SCAMPER
+### Planning Canvas
 
-Scoring Matrix
+### Product-Focused Requirement Statements
 
-Screening Matrix
+### Project Objective Statement
 
-Sensitivity Analysis
+### Prototyping
 
-Six Sigma
+### Quality function deployment
 
-Sketching
+### Rapid Prototyping
 
-Storyboards
+### Recombination Table
 
-Surveys
+### Requirements Hierarchy
 
-Theory of Inventive Problem Solving (TRIZ)
+### Requirements Matrix
 
-Troubleshooting
+### Revision Control
 
-Uncertainty Analysis
+### Robust Design
 
-Value Engineering
+### SCAMPER
+
+### Scoring Matrix
+
+### Screening Matrix
+
+### Sensitivity Analysis
+
+### Six Sigma
+
+### Sketching
+
+### Storyboards
+
+### Surveys
+
+### Theory of Inventive Problem Solving (TRIZ)
+
+### Troubleshooting
+
+### Uncertainty Analysis
+
+### Value Engineering
