@@ -297,19 +297,19 @@ Stuff about the chapter
 4. Test the design (Prototype/Evaluate)
 5. Refine the design
 
-### Benchmarking
+## Benchmarking
 > Benchmarking is a process of developing a thorough understanding of competitive products. These products are evaluated to determine how well the market likes the product, key strengths and weaknesses, the performance of the product on the performance measures, the concepts used in the product, and the estimated manufacturing cost of the product.
 
 - Market Benchmarking
 - Technical Benchmarking
 - Design Benchmarking
 
-### Bill of Materials
+## Bill of Materials
 
-### Bio-Inspired Design
+## Bio-Inspired Design
 > Bio-inspired design (sometimes called biomimicry or nature inspired design) is a solution exploration strategy that investigates nature’s solution to problems. The purpose of the strategy is to identify new solution principles from nature to inspire the development of analogous technical systems.
 
-### Brainstorming
+## Brainstorming
 
 Osborn's Rules for Brainstorming
 1. Focus on Quantity
@@ -317,41 +317,41 @@ Osborn's Rules for Brainstorming
 3. Welcome Unusual Ideas
 4. Combine and Improve Ideas
 
-### CAD Modeling
+## CAD Modeling
 
-### Catalog Search
+## Catalog Search
 
-### Codes and Standards
+## Codes and Standards
 > Many products will be governed by relevant codes and standards. In such cases, the standards describe performance measures that must be met in order to sell the product. The standards also often prescribe test methods for measuring the required performance. Using codes and standards helps ensure your product will be successful, and allows you to build on the expertise of the standard writers, rather than having to create all of that knowledge yourself.
 
-### Concept Classification Tree
+## Concept Classification Tree
 > A concept classi cation tree graphically presents the different branches explored when generating alternative solutions or concepts.
 
-### Controlled Convergence
+## Controlled Convergence
 
-### Cost Estimation
+## Cost Estimation
 
-### Cost Targets
+## Cost Targets
 
 1. Calculate total BOM cost
 2. BOM cost * 2 = Manufacturer's selling price to you
 3. Manufacturer's selling price to you * 2 = Selling price to retailer
 4. Selling price to retailer * 2 = What the consumer will pay
 
-### Critical Path Analysis
+## Critical Path Analysis
 > In any design activity map, there is a critical path that limits the minimum time required to complete the map. An important characteristic of the critical path is that if any activity on it is delayed, it delays the completion of the entire map. Activities not on the critical path have a window within which they can be completed; any delay within that window does not delay the completion of the entire map. To that end, understanding, tracking, and managing the critical path is essential to completing the map on time.
 
-### Decomposition
+## Decomposition
 
 Solve difficult problems one at a time
 
-### Delphi Method
+## Delphi Method
 > The Delphi method or Delphi technique is a method for obtaining information relevant to the design from experts in related fields.
 
 - Informal Delphi Method
 - Formal Delphi Method
 
-### Design for Assembly
+## Design for Assembly
 
 - Minimize the total number of parts
 - Minimize assembly surfaces
@@ -360,32 +360,32 @@ Solve difficult problems one at a time
 - Maximize lead-in assembly
 - Minimize handling in assembly
 
-### Design for Manufacturing
+## Design for Manufacturing
 
-### Design for Experiments
+## Design for Experiments
 
-### Design Review
+## Design Review
 
-### Design Structure Matrix
+## Design Structure Matrix
 
-### Dimensional Analysis
+## Dimensional Analysis
 > Dimensional analysis is a method of determining a minimal set of parameters that will affect the performance of a design. It provides scaling factors that help compare different designs using the same principles. A result of dimensional analysis is a set of dimensionless groups that can be correlated with product performance across a wide range of conditions.
 
-### Drawing Checking
+## Drawing Checking
 
-### Drawings
+## Drawings
 > Engineering or technical drawings are used to fully and clearly de ne the design of an engineered product. Drawings communicate all needed information from the designer of the product to the production system to ensure that the product will match the design intent in all important ways.
 
-### Engineering Change Order (ECO)
+## Engineering Change Order (ECO)
 
-### Ergonomics
+## Ergonomics
 > The interface between humans and technical products is called product ergonomics. When establishing product ergonomics, designers consider the characteristics, abilities, and needs of humans (Pahl et al., 2007) as well as the needs of the product.
 
 - Biomechanical Issues
 - Physiological Issues
 - Pyschological Issues
 
-### Experimentation
+## Experimentation
 
 1. Plan experiments before you do them
 2. Test at multiple conditions
@@ -395,30 +395,30 @@ Solve difficult problems one at a time
 6. Analyze the data statistically
 7. Prepare a written summary with at least one summary data plot
 
-### Failure Modes and Effects Analysis
+## Failure Modes and Effects Analysis
 
-### Fault Tree Analysis
+## Fault Tree Analysis
 
-### Financial Analysis
+## Financial Analysis
 > Financial Analysis is a set of methods used to predict and track the financial implications of decisions made during product development. It is used to support decisions about what is to be developed. It is also used to support decisions about specific activities to be undertaken during product development.
 
 - Payback analysis
 - Net present value
 
-### Finite Element Modeling
+## Finite Element Modeling
 
-### Focus Groups
+## Focus Groups
 > A focus group is a group of 6-10 individuals who are asked a series of open-ended questions by a moderator in order to understand how they feel about a product or service. Properly done, focus groups can be a rich source of qualitative understanding about the desires of the market.
 
-### Goal Pyramid
+## Goal Pyramid
 - Constraints
 - Key Requirements
 - Stretch Goals
 - Basic Requirements
 
-### Internet Research
+## Internet Research
 
-### Interviews
+## Interviews
 > Interviews allow product development team members to have direct contact with people pertinent to the development project. Direct contact helps the team member get a firsthand account of needs, product use, opinions, complaints, difficulties, and so on. Interviews can be done with one, or with a few participants. One-on-one interviews are valuable because a participant’s responses are uninfluenced by other participants. Small group interviews can be good because participants often have insightful dialogue with other participants.
 A primary goal of interviewing should be to elicit an honest response from participants1. Don’t be mistaken; this is very hard to do.
 
@@ -431,80 +431,80 @@ Example questions:
 - What do you consider when buying a product like this?
 - If there were no limitations, what would you do to improve this product?
 
-### Method 635
+## Method 635
 > To carry out the activity, 6 people familiarize themselves with the problem at hand. Each creates and writes down 3 candidate solutions. The list of candidate solutions is then passed to the next participant, who adds 3 more candidates by building on the ideas from the previous participant. The built-upon-ideas are then passed to the next participant and eventually through all participants.
 Hence the name 635; 6 participants, 3 ideas each, further developed by 5 other people.
 By the end of the method (typically 30 to 60 minutes later), there will be 6 lists of candidate solutions, each of which contains 18 systematically developed candidates, for a total of 108 solution candidates.
 
-### Mind Maps
+## Mind Maps
 
-### Multivoting
+## Multivoting
 
-### Nucor's Circles
+## Nucor's Circles
 - Passion
 - Expertise
 - Market
 
-### Objective Tree
+## Objective Tree
 
-### Observational Studies
+## Observational Studies
 - Rapid Ethnography
 - Fly on the Wall
 - Behavioral Archeology
 - A Day in the Life
 
-### One Pager
+## One Pager
 
-### Optimization
+## Optimization
 
-### Patent Searches
+## Patent Searches
 
-### Performance Measures
+## Performance Measures
 
-### Plan-Do-Check-Act (Shewhart Cycle)
+## Plan-Do-Check-Act (Shewhart Cycle)
 
-### Planning Canvas
+## Planning Canvas
 
-### Product-Focused Requirement Statements
+## Product-Focused Requirement Statements
 
-### Project Objective Statement
+## Project Objective Statement
 
-### Prototyping
+## Prototyping
 
-### Quality function deployment
+## Quality function deployment
 
-### Rapid Prototyping
+## Rapid Prototyping
 
-### Recombination Table
+## Recombination Table
 
-### Requirements Hierarchy
+## Requirements Hierarchy
 
-### Requirements Matrix
+## Requirements Matrix
 
-### Revision Control
+## Revision Control
 
-### Robust Design
+## Robust Design
 
-### SCAMPER
+## SCAMPER
 
-### Scoring Matrix
+## Scoring Matrix
 
-### Screening Matrix
+## Screening Matrix
 
-### Sensitivity Analysis
+## Sensitivity Analysis
 
-### Six Sigma
+## Six Sigma
 
-### Sketching
+## Sketching
 
-### Storyboards
+## Storyboards
 
-### Surveys
+## Surveys
 
-### Theory of Inventive Problem Solving (TRIZ)
+## Theory of Inventive Problem Solving (TRIZ)
 
-### Troubleshooting
+## Troubleshooting
 
-### Uncertainty Analysis
+## Uncertainty Analysis
 
-### Value Engineering
+## Value Engineering
