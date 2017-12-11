@@ -458,6 +458,7 @@ By the end of the method (typically 30 to 60 minutes later), there will be 6 lis
 ## Optimization
 
 ## Patent Searches
+> Patent searches are used as one way to find out what has been done relating to the product being developed. During early stages of development, patents are searched to find benchmark concepts and inspire creativity. During later stages of development, patents may be searched to avoid infringement of existing patents and to determine whether a new idea is patentable.
 
 ## Performance Measures
 
@@ -466,8 +467,13 @@ By the end of the method (typically 30 to 60 minutes later), there will be 6 lis
 ## Planning Canvas
 
 ## Product-Focused Requirement Statements
+- Positive, not negative, phrasing
+- As specific as the user statement
+- A requirement of the product, not the environment of the user
+- 
 
 ## Project Objective Statement
+
 
 ## Prototyping
 
