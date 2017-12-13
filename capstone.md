@@ -472,7 +472,11 @@ By the end of the method (typically 30 to 60 minutes later), there will be 6 lis
 - A requirement of the product, not the environment of the user
 
 ## Project Objective Statement
+> A project objective statement is a clear and concise articulation of the project and its goals. It is an overarching mission statement and while simple, it is a powerful way of uniting a team.
 
+- Scope
+- Schedule
+- Resources
 
 ## Prototyping
 
@@ -491,6 +495,13 @@ By the end of the method (typically 30 to 60 minutes later), there will be 6 lis
 ## Robust Design
 
 ## SCAMPER
+1. Substitute
+2. Combine
+3. Adapt
+4. Modify/Magnify
+5. Put to other uses
+6. Eliminate
+7. Rearrange/Reverse
 
 ## Scoring Matrix
 
@@ -501,6 +512,7 @@ By the end of the method (typically 30 to 60 minutes later), there will be 6 lis
 ## Six Sigma
 
 ## Sketching
+
 
 ## Storyboards
 
