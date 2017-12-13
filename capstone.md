@@ -513,14 +513,24 @@ By the end of the method (typically 30 to 60 minutes later), there will be 6 lis
 
 ## Sketching
 
-
 ## Storyboards
 
 ## Surveys
 
 ## Theory of Inventive Problem Solving (TRIZ)
+> TRIZ was developed in 1946 by Genrich Altshuller after leading a study of over 1.5 million patents. Altshuller found that similar problems had been solved in different technical fields using only a few dozen inventive principles. These inventive principles, which are part of the TRIZ method, can be used to help teams identify non-traditional solutions to problems – especially problems involving seemingly difficult to resolve conflicts.
 
 ## Troubleshooting
+1. Prepare a troubleshooting log
+2. Document the problem
+  a. What input are you providing to the system?
+  b. What do you expect to happen?
+  c. What actually happens?
+  d. What steps are necessary to reproduce the problem?
+3. Obtain (or develop) a logical model of the system
+4. Narrow down the possible trouble location
+5. Repair or redesign the faulty element
+6. Verify that the change solved the problem
 
 ## Uncertainty Analysis
 
