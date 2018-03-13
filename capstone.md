@@ -10,6 +10,7 @@ Mattson & Sorensen
 - [Chapter 5: Concept Development](#chapter-5-concept-development)
 - [Chapter 6: Subsystem Engineering](#chapter-6-subsystem-engineering)
 - [Chapter 7: Product Refinement](#chapter-7-product-refinement)
+- [Chapter 9: Seven ways to become a better designer](#chapter-9-seven-ways-to-become-a-better-designer)
 - [Basic Design Process](#basic-design-process)
 - [Exercises](#exercises)
 - [Design Skill Portfolio](#design-skill-portfolio)
@@ -274,6 +275,24 @@ Stuff about the chapter
 
 - Measured system performance measures
 - Market response to the product
+
+# Chapter 9: Seven ways to become a better designer
+
+1. Expect challenges
+- Embrace uncertainty and ambiguity
+2. Be mindful of the design
+- Design deliberately
+3. Be on the team
+- The design of the team is better than the design of the individual
+4. Diverge then converge
+- Explore, then focus
+5. Embrace multifidelity models and prototypes
+- Prototypes and models will tell us more about the design than we think
+6. Validate assumptions
+- Unvalidated assumptions lead to failure. Challenge everything, assume nothing
+7. Always have a back-up plan
+- Have something to fall back on
+
 
 # Design Skill Portfolio
 
